@@ -1,6 +1,15 @@
 {
   "name": "Bundestag Coin",
   "symbol": "BTG",
-  "description": "Der offizielle BundestagCoin (BTG) auf der Solana Blockchain",
-  "image": "https://amber-fast-lamprey-755.mypinata.cloud/ipfs/bafkreidet7h6hmctigjkevoi6suadkvn2onr6g3mtkbapeb2nxvpbww4ae"
+  "description": "Offizieller Bundestag Coin.",
+  "image": "https://raw.githubusercontent.com/BundestagCoins/BTG_public_repo/main/logo.png",
+  "decimals": 9,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BundestagCoins/BTG_public_repo/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
