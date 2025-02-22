@@ -1,0 +1,15 @@
+{
+  "name": "CDU Coin",
+  "symbol": "CDU",
+  "description": "Offizieller CDU Coin der christlich demokratischen Union Deutschlands.",
+  "image": "https://raw.githubusercontent.com/BundestagCoins/BTG_public_repo/main/logocdu.png",
+  "decimals": 9,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BundestagCoins/BTG_public_repo/main/logocdu.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
